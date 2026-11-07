@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.proxysql/commit/4513f9d657e15182c42e404ef755875819bbbe33",
       "git:hexsha": "4513f9d657e15182c42e404ef755875819bbbe33",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T17:08:15.194659+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.proxysql/commit/6d17e8cbc4170cbf843efe6e59bd5531cb62eeb4",
